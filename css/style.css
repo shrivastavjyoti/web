@@ -810,7 +810,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 130px;
   display: inline-block;
   position: relative;
-  background: #3EC483;
+  background: #cc974c;
   display: table;
   margin: 0 auto;
   -webkit-border-radius: 50%;
@@ -938,7 +938,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   font-size: 22px;
-  color: #a94442;
+  color: #3EC483;
 }
 #fh5co-footer .copyright {
   padding-top: 5em;
