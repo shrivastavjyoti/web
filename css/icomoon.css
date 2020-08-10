@@ -26,6 +26,9 @@
 .icon-glass:before {
 	content: "\f000";
 }
+.icon-happy:before {
+    content: "\e9df";
+}
 .icon-music:before {
 	content: "\f001";
 }

@@ -737,14 +737,15 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
 }
 
+
 .pricing__price {
   font-weight: bold;
   line-height: 95px;
   width: 100px;
   height: 100px;
   margin: 1.15em auto 1em;
-  background: #3EC483;
-  color: rgba(255, 255, 255, 0.8);
+  background: rgba(51, 153, 153, 1);
+  color: rgba(200, 0,0, 0.8);
   -webkit-transition: color 0.3s, background 0.3s;
   transition: color 0.3s, background 0.3s;
   -webkit-border-radius: 50%;
@@ -752,10 +753,9 @@ h1, h2, h3, h4, h5, h6 {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-
 .pricing__item:hover .pricing__price {
   color: #fff;
-  background: #3EC483;
+  background-image:url(images/insiders.jpeg);
 }
 
 .pricing__feature-list {

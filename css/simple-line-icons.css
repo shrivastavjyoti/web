@@ -195,6 +195,8 @@
 .icon-social-spotify,
 .icon-social-stumbleupon,
 .icon-social-youtube,
+.icon-book-open,
+.icon-flag,
 .icon-social-dropbox {
   font-family: 'simple-line-icons';
   speak: none;
@@ -206,6 +208,12 @@
   /* Better Font Rendering =========== */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+.icon-book-open:before {
+	content: "&#xe04c";
+}
+.icon-flag:before {
+content:"&#xe088;"
 }
 .icon-user:before {
   content: "\e005";
